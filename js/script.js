@@ -93,9 +93,6 @@ if($('.wow').length){
     );
     wow.init();
 }
-
-
-
 });
 
 
